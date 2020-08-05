@@ -1,4 +1,5 @@
 # hungry-frog
+<<<<<<< HEAD
 
 ## Build Setup
 
@@ -18,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+A frog snares bugs
+>>>>>>> 73856db669687aff4dc03fc5620c74567033df3d
